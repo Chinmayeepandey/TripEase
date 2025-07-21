@@ -1,6 +1,6 @@
 # TripEase
 
-Welcome to **TripEase** — your all-in-one travel companion designed to inspire, guide, and elevate your journey as you discover and explore the most breathtaking, culturally rich, and unforgettable destinations around the globe.
+Welcome to **TripEase-Explore** — your all-in-one travel companion designed to inspire, guide, and elevate your journey as you discover and explore the most breathtaking, culturally rich, and unforgettable destinations around the globe.
 
 Let me know if you want a slightly shorter or more poetic version!
 ## 🔗 Live Demo
