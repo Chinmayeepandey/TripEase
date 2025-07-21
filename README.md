@@ -62,7 +62,7 @@ cd TripEase
 # Install dependencies
 npm install
 ```
-# Usage
+## Usage
 To run the application locally:
 
 ```bash
@@ -70,7 +70,7 @@ npm start
 Then open your browser and go to:
 http://localhost:8080
 ```
-# Contributing
+## Contributing
 We welcome contributions to TripEase! To contribute:
 
 ```bash
@@ -84,6 +84,5 @@ git commit -am "Add new feature"
 # Push to your fork
 git push origin feature-name
 ```
-# Create a Pull Request
-# License
+## License
 TripEase is licensed under the MIT License, allowing you to use, modify, and distribute the code for your own projects.
